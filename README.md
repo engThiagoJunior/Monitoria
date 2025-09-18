@@ -31,3 +31,26 @@ Bem-vindo ao repositório central de apoio aos alunos de monitoria! Este espaço
 ## 📚 Estrutura do Repositório
 
 Este repositório está organizado por disciplinas. Cada pasta contém materiais específicos para a respectiva matéria.
+
+Navegue até a pasta da sua disciplina para encontrar listas de exercícios, projetos exemplo, slides de revisão e outros recursos.
+
+---
+
+## ❓ Como Utilizar
+
+1.  **Preencha o Formulário:** Sempre preencha o formulário antes de buscar atendimento.
+2.  **Navegue pela Sua Disciplina:** Encontre a pasta correspondente à disciplina que você precisa de ajuda.
+3.  **Consulte os Materiais:** Muitas dúvidas podem ser sanadas consultando os exemplos e tutoriais disponíveis.
+4.  **Dúvidas?** Caso não encontre o que precisa, traga sua dúvida no horário de monitoria.
+
+---
+
+## 📞 Contato
+
+*   **Monitor:** Thiago de Oliveira Sousa Júnior
+*   **E-mail:** d2023008774@unifei.edu.br
+
+*   **Monitor:** Gabriel Fazion do Santos
+*   **E-mail:** d2022014991@unifei.edu.br
+
+*Este repositório é atualizado constantemente. Volte sempre para verificar novos materiais!*
