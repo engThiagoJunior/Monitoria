@@ -31,6 +31,10 @@ Bem-vindo ao repositório central de apoio aos alunos de monitoria! Este espaço
 ## 📚 Estrutura do Repositório
 
 Este repositório está organizado por disciplinas. Cada pasta contém materiais específicos para a respectiva matéria.
+.
+├── ECOP04_ECOP14 - PROGRAMAÇÃO EMBARCADA
+├── ECOS01A_ECOS11A - SISTEMAS OPERACIONAIS
+└── ECOS03_ECOS13 - SIS. OPERACIONAIS EMBARCADOS
 
 Navegue até a pasta da sua disciplina para encontrar listas de exercícios, projetos exemplo, slides de revisão e outros recursos.
 
