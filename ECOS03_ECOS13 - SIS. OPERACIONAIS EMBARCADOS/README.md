@@ -62,19 +62,14 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 
 ---
 
-## 🔗 Links Úteis
-
-*   **Sistema Acadêmico (SIGAA):** [https://sigaa.unifei.edu.br/sigaa/public/home.jsf](https://sigaa.unifei.edu.br/sigaa/public/home.jsf)
-
----
-
 ## 📂 Estrutura deste Repositório
-
+```
 .
 ├── Labs/ # Códigos-fonte e projetos dos laboratórios
 ├── Exemplos/ # Exemplos de código para conceitos específicos
 ├── Projetos/ # Projetos de maior escopo ou finais
 └── Documentos/ # Resumos, manuais e material teórico complementar
+```
 
 ## 💡 Dicas do Monitor
 
