@@ -36,6 +36,7 @@ Este repositório está organizado por disciplinas. Cada pasta contém materiais
 ├── ECOP04_ECOP14/          # Programação Embarcada
 ├── ECOS01A_ECOS11A/        # Sistemas Operacionais
 └── ECOS03_ECOS13/          # Sistemas Operacionais Embarcados
+```
 
 Navegue até a pasta da sua disciplina para encontrar listas de exercícios, projetos exemplo, slides de revisão e outros recursos.
 
