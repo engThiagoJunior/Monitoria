@@ -81,4 +81,5 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 **Bons estudos!**
 
 > *¹Todos os direitos reservados ao Professor Otávio de Souza Martins Gomes.*
+
 > *²Todos os direitos reservados ao Professor Rodrigo Maximiano Antunes de Almeida.*
