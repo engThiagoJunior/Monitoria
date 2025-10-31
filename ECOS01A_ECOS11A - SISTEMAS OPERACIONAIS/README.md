@@ -26,7 +26,6 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 * **Linux - Ubuntu:** [https://ubuntu.com/download](https://ubuntu.com/download)
 * **Documentação Linux:** [https://help.ubuntu.com/](https://help.ubuntu.com/)
 * **Máquina Virtual Java:** [https://www.virtualbox.org/](https://www.virtualbox.org/)
-* **Máquina Virtual Java:** [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 
 
@@ -38,7 +37,7 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 ├── Documentos/         # Resumos, manuais e material teórico complementar
 └── LAB00/              # Códigos-fonte e projetos dos laboratórios
 ```
-
+---
 ## 💡 Dicas do Monitor
 
 1.  **Domine o Ambiente:** Configurar o ambiente C no Linux (GCC, Makefiles) e saber usar o terminal é o primeiro passo. Não pule essa etapa.
