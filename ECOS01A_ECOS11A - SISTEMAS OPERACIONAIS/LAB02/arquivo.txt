@@ -1,0 +1,176 @@
+Lista de Contatos:
+
+1. Nome: João Silva, Telefone: (123) 456-7890
+2. Nome: Maria Santos, Telefone: (987) 654-3210
+3. Nome: Carlos Oliveira, Telefone: (555) 123-4567
+4. Nome: Ana Paula, Telefone: (333) 888-9999
+5. Nome: Pedro Almeida, Telefone: 999-888-7777
+6. Nome: Luana Martins, Telefone: (777) 555-3333
+7. Nome: Roberto Lima, Telefone: (111) 222-3333
+8. Nome: Amanda Costa, Telefone: (999) 999-9999
+9. Nome: André Souza, Telefone: (444) 444-4444
+10. Nome: Laura Pereira, Telefone: (123) 456-7890
+
+
+Linux é um sistema operacional de código aberto.
+Erro: Falha na conexão com o servidor.
+Este arquivo termina com o número 3.
+Telefone: (123) 456-7890
+E-mail: exemplo@exemplo.com
+01/01/2022 - Dia de Ano Novo
+Linux é utilizado por milhões de pessoas ao redor do mundo.
+Erro de sintaxe na linha 10.
+O número 9 está presente nesta linha.
+Telefone: (987) 654-3210
+Erro fatal no sistema operacional.
+Este arquivo termina com o número 2.
+E-mail: teste@teste.com
+30/11/2021 - Data de lançamento do novo software.
+O Linux é conhecido por sua segurança e estabilidade.
+Erro de acesso negado.
+Este arquivo termina com o número 7.
+Telefone: (555) 123-4567
+Endereço de e-mail: contato@exemplo.com.br
+15/09/2021 - Aniversário da empresa.
+Erro crítico: disco rígido corrompido.
+Este arquivo termina com o número 4.
+Telefone de emergência: 190.
+O número 24 está presente nesta linha.
+E-mail: suporte@empresa.com
+20/04/2022 - Dia do Programador.
+O Linux oferece uma ampla gama de aplicativos gratuitos.
+Erro: Falha ao carregar o arquivo.
+Este arquivo termina com o número 8.
+Telefone: (999) 888-7777
+Erro de memória insuficiente.
+Este arquivo termina com o número 6.
+E-mail: contato@empresa.com.br
+25/12/2021 - Natal.
+O Linux é altamente personalizável e flexível.
+Erro de script na linha 42.
+Este arquivo termina com o número 5.
+Telefone: (777) 555-3333
+Erro de conexão com a internet.
+E-mail: atendimento@exemplo.com
+05/06/2022 - Dia Mundial do Meio Ambiente.
+O Linux é usado em servidores, dispositivos móveis e computadores pessoais.
+Erro de permissão negada.
+Este arquivo termina com o número 9.
+Telefone: (111) 222-3333
+Erro de inicialização do sistema.
+Este arquivo termina com o número 1.
+E-mail: contato@empresa.com
+18/11/2021 - Dia Nacional do Livro.
+O Linux oferece uma comunidade ativa de desenvolvedores e usuários.
+Erro de acesso ao banco de dados.
+Este arquivo termina com o número 0.
+Telefone de emergência: 193.
+O número 54 está presente nesta linha.
+E-mail: suporte@exemplo.com.br
+01/05/2022 - Dia do Trabalhador.
+O Linux é uma alternativa gratuita e de código aberto aos sistemas operacionais proprietários.
+Erro: Disco cheio.
+Este arquivo termina com o número 3.
+Telefone: (444) 444-4444
+Erro de segurança detectado.
+Este arquivo termina com o número 2.
+E-mail: contato@empresa.com
+07/09/2021 - Independência do Brasil.
+O Linux é amplamente utilizado em servidores web e de banco de dados.
+Erro de hardware detectado.
+Este arquivo termina com o número 7.
+Telefone: (222) 333-4444
+Erro de autenticação do usuário.
+Este arquivo termina com o número 6.
+E-mail: suporte@exemplo.com
+14/02/2022 - Dia dos Namorados.
+O Linux oferece uma grande variedade de distribuições para diferentes necessidades.
+Erro de configuração do sistema.
+Este arquivo termina com o número 5.
+Telefone: (555) 666-7777
+Erro de compilação do código.
+Este arquivo termina com o número 8.
+E-mail: contato@exemplo.com.br
+20/07/2022 - Dia do Amigo.
+O Linux suporta uma ampla variedade de hardware.
+Erro de rede: conexão perdida.
+Este arquivo termina com o número 4.
+Telefone: (123) 456-7890
+Erro de permissão de escrita.
+Este arquivo termina com o número 1.
+E-mail: atendimento@empresa.com
+02/11/2021 - Dia de Finados.
+O Linux é utilizado em sistemas embarcados e dispositivos IoT.
+Erro: Falha ao abrir o arquivo.
+Este arquivo termina com o número 9.
+Telefone de emergência: 190.
+O número 93 está presente nesta linha.
+E-mail: suporte@exemplo.com.br
+08/03/2022 - Dia Internacional da Mulher.
+O Linux é uma escolha popular para desenvolvedores e profissionais de TI.
+Erro de formatação do disco.
+Este arquivo termina com o número 0.
+
+
+Lista de Contatos:
+
+1. Nome: João da Silva
+   Telefone: (123) 456-7890
+   Endereço: Rua das Flores, 123
+   Cidade: São Paulo
+   CEP: 01234-567
+
+2. Nome: Maria Oliveira
+   Telefone: (987) 654-3210
+   Endereço: Avenida dos Anjos, 456
+   Cidade: Rio de Janeiro
+   CEP: 04567-890
+
+3. Nome: Carlos Santos
+   Telefone: (555) 123-4567
+   Endereço: Praça das Águias, 789
+   Cidade: Belo Horizonte
+   CEP: 07890-123
+
+4. Nome: Ana Paula
+   Telefone: 999-888-7777
+   Endereço: Travessa das Rosas, 321
+   Cidade: Curitiba
+   CEP: 05678-901
+
+5. Nome: Pedro Almeida
+   Telefone: (777) 555-3333
+   Endereço: Rua das Palmeiras, 456
+   Cidade: Porto Alegre
+   CEP: 02345-678
+
+6. Nome: Luana Martins
+   Telefone: (111) 222-3333
+   Endereço: Alameda das Orquídeas, 789
+   Cidade: Florianópolis
+   CEP: 09087-654
+
+7. Nome: Roberto Lima
+   Telefone: (999) 999-9999
+   Endereço: Avenida das Estrelas, 1010
+   Cidade: Recife
+   CEP: 01010-010
+
+8. Nome: Amanda Costa
+   Telefone: (444) 444-4444
+   Endereço: Praça dos Girassóis, 1111
+   Cidade: Brasília
+   CEP: 04040-404
+
+9. Nome: André Souza
+   Telefone: (222) 333-4444
+   Endereço: Rua das Hortênsias, 222
+   Cidade: Salvador
+   CEP: 03030-303
+
+10. Nome: Laura Pereira
+    Telefone: (555) 666-7777
+    Endereço: Avenida das Acácias, 333
+    Cidade: Fortaleza
+    CEP: 02020-202
+
