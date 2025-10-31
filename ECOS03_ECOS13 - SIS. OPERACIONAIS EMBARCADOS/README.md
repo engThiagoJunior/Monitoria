@@ -65,10 +65,12 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 ## 📂 Estrutura deste Repositório
 ```
 .
-├── Labs/ # Códigos-fonte e projetos dos laboratórios
-├── Exemplos/ # Exemplos de código para conceitos específicos
-├── Projetos/ # Projetos de maior escopo ou finais
-└── Documentos/ # Resumos, manuais e material teórico complementar
+├── 2025.1/             # Pasta de códigos desenvolvidos na monitoria
+│   ├── Lab_verific/    # Códigos-fonte da primeira atividade avaliativa de laboratório
+│   ├── Lab_verific2/   # Códigos-fonte da segunda atividade avaliativa de laboratório
+├── Documentos/         # Resumos, manuais e material teórico complementar
+├── LAB00/              # Códigos-fonte e projetos dos laboratórios
+└── Projeto_Final/      # Código-fonte e diretivas do projeto final da disciplina
 ```
 
 ## 💡 Dicas do Monitor
