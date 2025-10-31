@@ -7,6 +7,8 @@ Este repositório contém materiais de apoio para as disciplinas **ECOS03 - Sist
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
 Este repositório é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
 
+**Atenção:** Se você é de algum curso em que esta disciplina é optativa (ECOS03 e ECOS13) e ainda não cursou a disciplina de ECOS01A, **fica a dica:** dê uma olhada nas documentações do repositório da disciplina de Sistemas Operacionais para ajudar na compreensão de alguns conceitos.
+
 ---
 
 ## 🎯 Objetivos das Disciplinas
