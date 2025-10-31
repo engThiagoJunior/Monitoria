@@ -36,7 +36,7 @@ Sistema de controle de iluminação inteligente desenvolvido para a placa STM32F
 
 #### Opção 1: Clone do Git
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone [https://github.com/engThiagoJunior/Monitoria/tree/main/ECOS03_ECOS13%20-%20SIS.%20OPERACIONAIS%20EMBARCADOS/Projeto_Final]
 ```
 #### Opção 2: Download Manual
 - Baixe o arquivo main.c e outros arquivos necessários do repositório
