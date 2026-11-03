@@ -1,13 +1,13 @@
 # ECOS03 & ECOS13 - Sistemas Operacionais Embarcados
 
-Este repositório contém materiais de apoio para as disciplinas **ECOS03 - Sistemas Operacionais Embarcados** e **ECOS13 - Laboratório de Sistemas Operacionais Embarcados**.
+Esta pasta contém materiais de apoio para as disciplinas **ECOS03 - Sistemas Operacionais Embarcados** e **ECOS13 - Laboratório de Sistemas Operacionais Embarcados**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este repositório é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
 
-**Atenção:** Se você é de algum curso em que esta disciplina é optativa (ECOS03 e ECOS13) e ainda não cursou a disciplina de ECOS01A, **fica a dica:** dê uma olhada nas documentações do repositório da disciplina de Sistemas Operacionais para ajudar na compreensão de alguns conceitos.
+**Atenção:** Se você é de algum curso em que esta disciplina é optativa (ECOS03 e ECOS13) e ainda não cursou a disciplina de ECOS01A, **fica a dica:** dê uma olhada nos [materiais da disciplina de Sistemas Operacionais](../ecos01a-ecos11a-sistemas-operacionais/) para ajudar na compreensão de alguns conceitos.
 
 ---
 
@@ -55,7 +55,7 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 *   **Código de Teste¹:** [Download no Google Drive](https://drive.google.com/file/d/12M1g1bPAiYj8eHamMVM3GPySJZZoiD0W/view?usp=sharing)
 
 ### 2. Desenvolvimento e Documentação
-*   *Documentação Oficial do FreeRTOS (CMSIS-RTOS):* [Acessar](https://arm-software.github.io/CMSIS_5/latest/RTOS/html/index.html)
+*   *Documentação oficial do CMSIS-RTOS:* [Acessar](https://arm-software.github.io/CMSIS_5/latest/RTOS/html/index.html)
 
 ### 3. Auxiliares (Teoria e Prática)
 *   **Laboratórios²:** [Acessar Pasta no Google Drive](https://drive.google.com/drive/folders/16TBHZGL2HVfUESPm6IhvEoYG0nnl3ddm)
@@ -64,15 +64,15 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 
 ---
 
-## 📂 Estrutura deste Repositório
+## 📂 Estrutura desta Pasta
 ```
 .
-├── 2025.1/             # Pasta de códigos desenvolvidos na monitoria
-│   ├── Lab_verific/    # Códigos-fonte da primeira atividade avaliativa de laboratório
-│   ├── Lab_verific2/   # Códigos-fonte da segunda atividade avaliativa de laboratório
-├── Documentos/         # Resumos, manuais e material teórico complementar
-├── LAB00/              # Códigos-fonte e projetos dos laboratórios
-└── Projeto_Final/      # Código-fonte e diretivas do projeto final da disciplina
+├── 2025.1/                    # Códigos desenvolvidos na monitoria
+│   ├── lab-verificacao-1/     # Primeira atividade avaliativa de laboratório
+│   └── lab-verificacao-2/     # Segunda atividade avaliativa de laboratório
+├── documentos/                # Slides, questões abertas e diretivas do projeto final
+├── lab01/ … lab06/            # Roteiros e códigos dos laboratórios
+└── projeto-final/             # Código-fonte e diretivas do projeto final
 ```
 
 ## 💡 Dicas do Monitor

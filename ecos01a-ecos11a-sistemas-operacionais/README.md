@@ -1,11 +1,11 @@
 # ECOS01A & ECOS11A - Sistemas Operacionais
 
-Este repositório contém materiais de apoio para as disciplinas **ECOS01A - Sistemas Operacionais** e **ECOS11A - Laboratório de Sistemas Operacionais**.
+Esta pasta contém materiais de apoio para as disciplinas **ECOS01A - Sistemas Operacionais** e **ECOS11A - Laboratório de Sistemas Operacionais**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este repositório é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
 
 ---
 
@@ -25,17 +25,17 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 ## 🔗 Links Úteis
 * **Linux - Ubuntu:** [https://ubuntu.com/download](https://ubuntu.com/download)
 * **Documentação Linux:** [https://help.ubuntu.com/](https://help.ubuntu.com/)
-* **Máquina Virtual Java:** [https://www.virtualbox.org/](https://www.virtualbox.org/)
+* **VirtualBox (máquina virtual):** [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 
 
 ---
 
-## 📂 Estrutura deste Repositório
+## 📂 Estrutura desta Pasta
 ```
 .
-├── Documentos/         # Resumos, manuais e material teórico complementar
-└── LAB00/              # Códigos-fonte e projetos dos laboratórios
+├── documentos/         # Slides e questões discursivas
+└── lab01/ … lab06/     # Roteiros e códigos dos laboratórios
 ```
 ---
 ## 💡 Dicas do Monitor

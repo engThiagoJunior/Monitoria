@@ -1,62 +1,42 @@
-# 🧠 Repositório de Monitoria
+# Monitoria de Sistemas Embarcados e Sistemas Operacionais
 
-Bem-vindo ao repositório central de apoio aos alunos de monitoria! Este espaço foi criado para organizar materiais, exemplos de código, tutoriais e recursos que auxiliem no aprendizado das disciplinas atendidas.
+Materiais, exemplos de código e projetos reunidos durante a monitoria de disciplinas do curso de Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI). O repositório apoia os alunos atendidos e registra a prática em C, Shell Script e programação para STM32 com sistema operacional de tempo real.
 
-**Antes de ser atendido, é obrigatório preencher o formulário abaixo:**
-📋 [Formulário de Atendimento de Monitoria](https://forms.gle/8NsAJdLEfrmhrKuw8)
+**Principais tecnologias:** C · Shell Script · STM32F103 · CMSIS-RTOS (Keil RTX) · Keil µVision · Linux
 
----
+## Disciplinas
 
-## 🗓️ Horários de Atendimento
+| Disciplina | Conteúdo | Pasta |
+|---|---|---|
+| ECOP04 e ECOP14 — Programação Embarcada | Materiais de apoio e links de ferramentas | [`ecop04-ecop14-programacao-embarcada`](ecop04-ecop14-programacao-embarcada/) |
+| ECOS01A e ECOS11A — Sistemas Operacionais | Slides, seis roteiros de laboratório, Shell Script e C | [`ecos01a-ecos11a-sistemas-operacionais`](ecos01a-ecos11a-sistemas-operacionais/) |
+| ECOS03 e ECOS13 — Sistemas Operacionais Embarcados | Buffer circular, kernel, tarefas, sinais, mutex, semáforos e projeto final | [`ecos03-ecos13-sistemas-operacionais-embarcados`](ecos03-ecos13-sistemas-operacionais-embarcados/) |
 
-### **Terça-feira**
-*   **Horário:** 15h45 às 21h
-*   **Local:** LEC IV*  
-*   **Disciplinas Atendidas:**
-    *   ECOS11 - Laboratório de Sistemas Operacionais Embarcados
-    *   ECOS13A - Laboratório de Sistemas Operacionais
-    *   ECOS03 - Sistemas Operacionais Embarcados
-    *   ELT102
+## Projeto em destaque
 
-### **Quinta-feira**
-*   **Horário:** 18h às 21h
-*   **Local:** LEC II - I.4.1.6
-*   **Disciplina Atendida:**
-    *   ECOP14 - Laboratório de Programação Embarcada
+[**Sistema de Controle de Iluminação Inteligente**](ecos03-ecos13-sistemas-operacionais-embarcados/projeto-final/): projeto final de ECOS03, desenvolvido em dupla para a placa RedPill (STM32F103). Oito tarefas de CMSIS-RTOS coordenam quatro padrões de LEDs, leitura de botões, potenciômetro, buzzer e display LCD.
 
-> ***\*Atenção:*** *Em breve, o atendimento de Terça-feira será transferido para o **LASER 1 - I.4.1.8**. Fiquem atentos às comunicações para novidades!*
+## Para alunos
 
----
+**Antes de ser atendido, é obrigatório preencher o [Formulário de Atendimento de Monitoria](https://forms.gle/8NsAJdLEfrmhrKuw8).**
 
-## 📂 Estrutura do Repositório Principal
+1. Preencha o formulário antes de buscar atendimento.
+2. Abra a pasta da sua disciplina.
+3. Consulte os materiais e exemplos disponíveis.
+4. Se a dúvida continuar, leve-a ao horário de monitoria.
 
-Este repositório está organizado por disciplinas. Cada pasta contém materiais específicos para a respectiva matéria.
-```
-.
-├── ECOP04_ECOP14/          # Programação Embarcada
-├── ECOS01A_ECOS11A/        # Sistemas Operacionais
-└── ECOS03_ECOS13/          # Sistemas Operacionais Embarcados
-```
+> Este repositório complementa o material oficial. Sempre acompanhe o que o seu professor publica no SIGAA.
 
-Navegue até a pasta da sua disciplina para encontrar listas de exercícios, projetos exemplo, slides de revisão e outros recursos.
+### Horários de atendimento
 
----
+| Dia | Horário | Local | Disciplinas |
+|---|---|---|---|
+| Terça-feira | 15h45 às 21h | LEC IV\* | ECOS11A, ECOS13, ECOS03 e ELT102 |
+| Quinta-feira | 18h às 21h | LEC II — I.4.1.6 | ECOP14 |
 
-## ❓ Como Utilizar
+\* Em breve, o atendimento de terça-feira será transferido para o LASER 1 — I.4.1.8.
 
-1.  **Preencha o Formulário:** Sempre preencha o formulário antes de buscar atendimento.
-2.  **Navegue pela Sua Disciplina:** Encontre a pasta correspondente à disciplina que você precisa de ajuda.
-3.  **Consulte os Materiais:** Muitas dúvidas podem ser sanadas consultando os exemplos e tutoriais disponíveis.
-4.  **Dúvidas?** Caso não encontre o que precisa, traga sua dúvida no horário de monitoria.
+## Contato
 
----
-
-## 📞 Contato
-
-*   **Monitor:** Thiago de Oliveira Sousa Júnior
-*   **E-mail:** d2023008774@unifei.edu.br
-
-*   **Monitor:** Gabriel Fazion do Santos
-*   **E-mail:** d2022014991@unifei.edu.br
-
-*Este repositório é atualizado constantemente. Volte sempre para verificar novos materiais!*
+- **Thiago de Oliveira Sousa Júnior** — d2023008774@unifei.edu.br
+- **Gabriel Fazion dos Santos** — d2022014991@unifei.edu.br

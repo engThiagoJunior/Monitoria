@@ -2,11 +2,11 @@
 ## Sistema de Controle de Iluminação Inteligente
 
 ### 👥 Desenvolvedores
-- **Gabriel Fazion do Santos**
+- **Gabriel Fazion dos Santos**
 - **Thiago de Oliveira Sousa Júnior**
 
 ### 📋 Descrição do Projeto
-Sistema de controle de iluminação inteligente desenvolvido para a placa STM32F103 (RedPill) utilizando FreeRTOS. O sistema gerencia múltiplos padrões de iluminação com controle por horários, botões e sensores.
+Sistema de controle de iluminação inteligente desenvolvido para a placa RedPill (STM32F103). A proposta da disciplina cita o FreeRTOS; a implementação usa a API CMSIS-RTOS com o kernel Keil RTX. Oito tarefas gerenciam os padrões de iluminação, os botões, o potenciômetro, o buzzer e o display LCD.
 
 ### 🎯 Funcionalidades Implementadas
 
@@ -18,7 +18,7 @@ Sistema de controle de iluminação inteligente desenvolvido para a placa STM32F
 
 #### Controles:
 - **Botões C, D, E, F**: Seleção de modos de funcionamento
-- **Botões Y, A, X, B**: Controle de velocidade
+- **Botões Y, A, X, B, L, M, N**: Controle de velocidade
 - **Display**: Mostrador de estado e teclas pressionadas
 
 ### 🛠️ Pré-requisitos
@@ -34,18 +34,15 @@ Sistema de controle de iluminação inteligente desenvolvido para a placa STM32F
 
 ### 🚀 Como Executar o Projeto
 
-#### Opção 1: Clone do Git
+#### Clone do repositório
 ```bash
-git clone [https://github.com/engThiagoJunior/Monitoria/tree/main/ECOS03_ECOS13%20-%20SIS.%20OPERACIONAIS%20EMBARCADOS/Projeto_Final]
+git clone https://github.com/engThiagoJunior/Monitoria.git
+cd Monitoria/ecos03-ecos13-sistemas-operacionais-embarcados/projeto-final/TF_SOE
 ```
-#### Opção 2: Download Manual
-- Baixe o arquivo main.c e outros arquivos necessários do repositório
 
 #### Configuração e Upload:
 
-- Abra o Keil uVision;
-- Crie um novo projeto ou abra o projeto existente;
-- Adicione o arquivo main.c ao projeto;
+- Abra `final.uvprojx` no Keil uVision;
 - Compile o projeto (F7);
 - Conecte a placa RedPill via USB;
 - Grave o código na placa;
@@ -65,6 +62,9 @@ git clone [https://github.com/engThiagoJunior/Monitoria/tree/main/ECOS03_ECOS13%
 * **Botão A:** Metade da velocidade
 * **Botão X:** Velocidade padrão
 * **Botão B:** Velocidade por potenciômetro
+* **Botão L:** Período de 500 ms
+* **Botão M:** Período de 2000 ms
+* **Botão N:** Período de 10000 ms
 
 ---
 

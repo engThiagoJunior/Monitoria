@@ -1,11 +1,11 @@
 # ECOP04 & ECOP14 - Programação Embarcada
 
-Este repositório contém materiais de apoio para as disciplinas **ECOP04 - Programação Embarcada** e **ECOP14 - Laboratório de Programação Embarcada**.
+Esta pasta contém materiais de apoio para as disciplinas **ECOP04 - Programação Embarcada** e **ECOP14 - Laboratório de Programação Embarcada**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este repositório é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
 
 ---
 
@@ -31,11 +31,10 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 
 
 
-## 📂 Estrutura deste Repositório
+## 📂 Estrutura desta Pasta
 ```
 .
-├── Documentos/         # Resumos, manuais e material teórico complementar
-└── LAB00/              # Códigos-fonte e projetos dos laboratórios
+└── documentos/         # Provas resolvidas e material complementar
 ```
 
 ---
