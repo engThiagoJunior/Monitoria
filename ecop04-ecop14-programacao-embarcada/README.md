@@ -1,11 +1,11 @@
 # ECOP04 & ECOP14 - Programação Embarcada
 
-Esta pasta contém materiais de apoio para as disciplinas **ECOP04 - Programação Embarcada** e **ECOP14 - Laboratório de Programação Embarcada**.
+Esta pasta reúne orientações de apoio para as disciplinas **ECOP04 - Programação Embarcada** e **ECOP14 - Laboratório de Programação Embarcada**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Esta pasta faz parte do acervo da monitoria, que foi encerrada. **O conteúdo aqui não substitui o material oficial e as instruções fornecidas pelos professores.**
 
 ---
 
@@ -27,16 +27,6 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 * **PICSimLab:** [https://github.com/lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab)
 
 * **ECOP04/14 MAX:** [https://sites.google.com/unifei.edu.br/rodrigoalmeida/ecop04ecop14](https://sites.google.com/unifei.edu.br/rodrigoalmeida/ecop04ecop14)
----
-
-
-
-## 📂 Estrutura desta Pasta
-```
-.
-└── documentos/         # Provas resolvidas e material complementar
-```
-
 ---
 
 ## 💡 Dicas do Monitor

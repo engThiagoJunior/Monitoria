@@ -1,13 +1,13 @@
 # ECOS03 & ECOS13 - Sistemas Operacionais Embarcados
 
-Esta pasta contém materiais de apoio para as disciplinas **ECOS03 - Sistemas Operacionais Embarcados** e **ECOS13 - Laboratório de Sistemas Operacionais Embarcados**.
+Esta pasta reúne códigos e orientações de apoio para as disciplinas **ECOS03 - Sistemas Operacionais Embarcados** e **ECOS13 - Laboratório de Sistemas Operacionais Embarcados**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Esta pasta faz parte do acervo da monitoria, que foi encerrada. **O conteúdo aqui não substitui o material oficial e as instruções fornecidas pelos professores.**
 
-**Atenção:** Se você é de algum curso em que esta disciplina é optativa (ECOS03 e ECOS13) e ainda não cursou a disciplina de ECOS01A, **fica a dica:** dê uma olhada nos [materiais da disciplina de Sistemas Operacionais](../ecos01a-ecos11a-sistemas-operacionais/) para ajudar na compreensão de alguns conceitos.
+**Atenção:** Se você é de algum curso em que esta disciplina é optativa (ECOS03 e ECOS13) e ainda não cursou a disciplina de ECOS01A, **fica a dica:** dê uma olhada na [pasta de Sistemas Operacionais](../ecos01a-ecos11a-sistemas-operacionais/) para ajudar na compreensão de alguns conceitos.
 
 ---
 
@@ -65,15 +65,16 @@ Configurar o ambiente de desenvolvimento (toolchain) é uma etapa crítica. Para
 ---
 
 ## 📂 Estrutura desta Pasta
-```
-.
-├── 2025.1/                    # Códigos desenvolvidos na monitoria
-│   ├── lab-verificacao-1/     # Primeira atividade avaliativa de laboratório
-│   └── lab-verificacao-2/     # Segunda atividade avaliativa de laboratório
-├── documentos/                # Slides, questões abertas e diretivas do projeto final
-├── lab01/ … lab06/            # Roteiros e códigos dos laboratórios
-└── projeto-final/             # Código-fonte e diretivas do projeto final
-```
+
+| Pasta | Conteúdo |
+|---|---|
+| `lab01/` | Buffer circular e ponteiros de função |
+| `lab02/` | Kernel cooperativo |
+| `2025.1/lab-verificacao-1/` | Drivers |
+| `2025.1/lab-verificacao-2/` | Tarefas, sinais e interrupções com CMSIS-RTOS |
+| `projeto-final/` | Sistema de Controle de Iluminação Inteligente |
+
+Os slides, roteiros e listas estão nos links acima ou no SIGAA da disciplina.
 
 ## 💡 Dicas do Monitor
 

@@ -1,11 +1,11 @@
 # ECOS01A & ECOS11A - Sistemas Operacionais
 
-Esta pasta contém materiais de apoio para as disciplinas **ECOS01A - Sistemas Operacionais** e **ECOS11A - Laboratório de Sistemas Operacionais**.
+Esta pasta reúne códigos e orientações de apoio para as disciplinas **ECOS01A - Sistemas Operacionais** e **ECOS11A - Laboratório de Sistemas Operacionais**.
 
 ## ⚠️ Aviso Importante
 
 **Sempre fique atento ao que seu professor posta na plataforma SIGAA.**
-Este material é complementar e composto por materiais coletados quando o monitor cursou as disciplinas. **Todo o conteúdo aqui disponível não substitui o material oficial e as instruções fornecidas pelos professores.**
+Esta pasta faz parte do acervo da monitoria, que foi encerrada. **O conteúdo aqui não substitui o material oficial e as instruções fornecidas pelos professores.**
 
 ---
 
@@ -31,12 +31,21 @@ Ao final destas disciplinas, o aluno deve ser capaz de:
 
 ---
 
+## 📚 Material da Disciplina
+
+Os slides, roteiros e listas são do Prof. Otávio Gomes e estão no SIGAA da disciplina.
+
+---
+
 ## 📂 Estrutura desta Pasta
-```
-.
-├── documentos/         # Slides e questões discursivas
-└── lab01/ … lab06/     # Roteiros e códigos dos laboratórios
-```
+
+| Pasta | Conteúdo |
+|---|---|
+| `lab01/` | Comandos básicos do terminal Linux |
+| `lab02/` | Scripts em Shell, incluindo cadastro e menu |
+| `lab03/` | Scripts de arquivos, rede, backup, serviços, recursos e segurança |
+| `lab04/` | Programas em C sobre processos |
+
 ---
 ## 💡 Dicas do Monitor
 

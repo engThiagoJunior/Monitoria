@@ -76,8 +76,3 @@ cd Monitoria/ecos03-ecos13-sistemas-operacionais-embarcados/projeto-final/TF_SOE
     * **Solução:** Verificar configuração do projeto para STM32F103
 * **Problema:** LEDs não acendem
     * **Solução:** Verificar se o código foi gravado corretamente
-
----
-
-## 📞 Suporte
-Para dúvidas sobre este projeto específico, entre em contato com os desenvolvedores listados acima.
