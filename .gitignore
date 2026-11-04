@@ -1,0 +1,18 @@
+# Saída de compilação (Keil µVision / GCC)
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.sct
+*.Bak
+*.exe
+*.build_log.htm
+CMSISrtxThreads.htm
+
+# Estado local do editor Keil (um arquivo por usuário)
+*.uvguix.*

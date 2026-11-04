@@ -1,62 +1,25 @@
-# 🧠 Repositório de Monitoria
+# Acervo da Monitoria de Sistemas Embarcados e Sistemas Operacionais
 
-Bem-vindo ao repositório central de apoio aos alunos de monitoria! Este espaço foi criado para organizar materiais, exemplos de código, tutoriais e recursos que auxiliem no aprendizado das disciplinas atendidas.
+Códigos, guias e projetos reunidos durante a minha monitoria no curso de Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI). A monitoria foi encerrada, e o repositório fica como acervo e registro da prática em C, Shell Script e programação para STM32 com sistema operacional de tempo real.
 
-**Antes de ser atendido, é obrigatório preencher o formulário abaixo:**
-📋 [Formulário de Atendimento de Monitoria](https://forms.gle/8NsAJdLEfrmhrKuw8)
+**Principais tecnologias:** C · Shell Script · STM32F103 · CMSIS-RTOS (Keil RTX) · Keil µVision · Linux
 
----
+## Conteúdo
 
-## 🗓️ Horários de Atendimento
+| Disciplina | O que há na pasta | Pasta |
+|---|---|---|
+| ECOP04 e ECOP14 — Programação Embarcada | Objetivos, ferramentas, links e dicas | [`ecop04-ecop14-programacao-embarcada`](ecop04-ecop14-programacao-embarcada/) |
+| ECOS01A e ECOS11A — Sistemas Operacionais | Scripts em Shell e programas em C sobre processos | [`ecos01a-ecos11a-sistemas-operacionais`](ecos01a-ecos11a-sistemas-operacionais/) |
+| ECOS03 e ECOS13 — Sistemas Operacionais Embarcados | Buffer circular, kernel, drivers, tarefas, sinais e projeto final | [`ecos03-ecos13-sistemas-operacionais-embarcados`](ecos03-ecos13-sistemas-operacionais-embarcados/) |
 
-### **Terça-feira**
-*   **Horário:** 15h45 às 21h
-*   **Local:** LEC IV*  
-*   **Disciplinas Atendidas:**
-    *   ECOS11 - Laboratório de Sistemas Operacionais Embarcados
-    *   ECOS13A - Laboratório de Sistemas Operacionais
-    *   ECOS03 - Sistemas Operacionais Embarcados
-    *   ELT102
+## Projeto em destaque
 
-### **Quinta-feira**
-*   **Horário:** 18h às 21h
-*   **Local:** LEC II - I.4.1.6
-*   **Disciplina Atendida:**
-    *   ECOP14 - Laboratório de Programação Embarcada
+[**Sistema de Controle de Iluminação Inteligente**](ecos03-ecos13-sistemas-operacionais-embarcados/projeto-final/): projeto final de ECOS03, desenvolvido em dupla para a placa RedPill (STM32F103). Oito tarefas de CMSIS-RTOS coordenam quatro padrões de LEDs, leitura de botões, potenciômetro, buzzer e display LCD.
 
-> ***\*Atenção:*** *Em breve, o atendimento de Terça-feira será transferido para o **LASER 1 - I.4.1.8**. Fiquem atentos às comunicações para novidades!*
+## Material das disciplinas
 
----
+Slides, roteiros, listas e provas pertencem aos professores e não ficam neste repositório. Consulte o SIGAA da disciplina ou os links indicados em cada pasta.
 
-## 📂 Estrutura do Repositório Principal
+## Autor
 
-Este repositório está organizado por disciplinas. Cada pasta contém materiais específicos para a respectiva matéria.
-```
-.
-├── ECOP04_ECOP14/          # Programação Embarcada
-├── ECOS01A_ECOS11A/        # Sistemas Operacionais
-└── ECOS03_ECOS13/          # Sistemas Operacionais Embarcados
-```
-
-Navegue até a pasta da sua disciplina para encontrar listas de exercícios, projetos exemplo, slides de revisão e outros recursos.
-
----
-
-## ❓ Como Utilizar
-
-1.  **Preencha o Formulário:** Sempre preencha o formulário antes de buscar atendimento.
-2.  **Navegue pela Sua Disciplina:** Encontre a pasta correspondente à disciplina que você precisa de ajuda.
-3.  **Consulte os Materiais:** Muitas dúvidas podem ser sanadas consultando os exemplos e tutoriais disponíveis.
-4.  **Dúvidas?** Caso não encontre o que precisa, traga sua dúvida no horário de monitoria.
-
----
-
-## 📞 Contato
-
-*   **Monitor:** Thiago de Oliveira Sousa Júnior
-*   **E-mail:** d2023008774@unifei.edu.br
-
-*   **Monitor:** Gabriel Fazion do Santos
-*   **E-mail:** d2022014991@unifei.edu.br
-
-*Este repositório é atualizado constantemente. Volte sempre para verificar novos materiais!*
+**Thiago de Oliveira Sousa Júnior** — Engenharia de Computação, UNIFEI
