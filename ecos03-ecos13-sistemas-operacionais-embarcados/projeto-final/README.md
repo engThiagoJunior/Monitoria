@@ -93,12 +93,3 @@ Um toque liga o modo escolhido. O toque seguinte em C, D, E ou F desliga o modo 
 * **Botão N:** Período de 10000 ms
 
 ---
-
-## 🔧 Solução de Problemas
-
-* **Problema:** Placa não é detectada
-    * **Solução:** Verificar drivers ST-Link e cabo USB
-* **Problema:** Erro de compilação no Keil
-    * **Solução:** Verificar configuração do projeto para STM32F103
-* **Problema:** LEDs não acendem
-    * **Solução:** Verificar se o código foi gravado corretamente
