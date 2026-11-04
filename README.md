@@ -12,10 +12,6 @@ Códigos, guias e projetos reunidos durante a minha monitoria no curso de Engenh
 | ECOS01A e ECOS11A — Sistemas Operacionais | Scripts em Shell e programas em C sobre processos | [`ecos01a-ecos11a-sistemas-operacionais`](ecos01a-ecos11a-sistemas-operacionais/) |
 | ECOS03 e ECOS13 — Sistemas Operacionais Embarcados | Buffer circular, kernel, drivers, tarefas, sinais e projeto final | [`ecos03-ecos13-sistemas-operacionais-embarcados`](ecos03-ecos13-sistemas-operacionais-embarcados/) |
 
-## Projeto em destaque
-
-[**Sistema de Controle de Iluminação Inteligente**](ecos03-ecos13-sistemas-operacionais-embarcados/projeto-final/): projeto final de ECOS03, desenvolvido em dupla para a placa RedPill (STM32F103). Oito tarefas de CMSIS-RTOS coordenam quatro padrões de LEDs, leitura de botões, potenciômetro, buzzer e display LCD.
-
 ## Material das disciplinas
 
 Slides, roteiros, listas e provas pertencem aos professores e não ficam neste repositório. Consulte o SIGAA da disciplina ou os links indicados em cada pasta.
